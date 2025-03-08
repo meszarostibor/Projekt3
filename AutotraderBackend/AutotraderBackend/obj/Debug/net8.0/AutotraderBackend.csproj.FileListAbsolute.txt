@@ -128,3 +128,4 @@ D:\SULI\IKT_PROJEKTMUNKA\Projekt3\AutotraderBackend\AutotraderBackend\obj\Debug\
 D:\SULI\IKT_PROJEKTMUNKA\Projekt3\AutotraderBackend\AutotraderBackend\obj\Debug\net8.0\AutotraderBackend.pdb
 D:\SULI\IKT_PROJEKTMUNKA\Projekt3\AutotraderBackend\AutotraderBackend\obj\Debug\net8.0\AutotraderBackend.genruntimeconfig.cache
 D:\SULI\IKT_PROJEKTMUNKA\Projekt3\AutotraderBackend\AutotraderBackend\obj\Debug\net8.0\ref\AutotraderBackend.dll
+D:\SULI\IKT_PROJEKTMUNKA\Projekt3\AutotraderBackend\AutotraderBackend\obj\Debug\net8.0\AutotraderBackend.sourcelink.json
