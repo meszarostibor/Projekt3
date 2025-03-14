@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function UpdateCar(props) {
 
-  const handleCarData = async (event) => {
+  const handleCarData = async () => {
     const url = `http://localhost:5081/Cars/CarById?id=${props.carId}`
     const request = fetch(url, {
       method: 'PUT',
@@ -16,7 +16,7 @@ export default function UpdateCar(props) {
       return
     }
     var response = await request.json();
-    props.handleCount=props.handleCount();
+    props.handleCount()
     console.log(response.message)
   }
 
